@@ -1,2 +1,1 @@
-# hello-world
-meh
+Just another noob trying out a tutrial :|
